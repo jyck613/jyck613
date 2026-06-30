@@ -11,10 +11,10 @@ I am a system architect
 
 - 👯 I'm looking to collaborate on **open source projects**
 
-- 👨‍💻 All of my projects are available at **[http://jyck613.com](http://jyck613.com)**
+- 👨‍💻 All of my projects are available in my repo
 
-- 📝 I regularly write articles on **[http://jyck613.com](http://jyck613.com)**
-
+- 📝 All my work are enterprise production environment at scale
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://youtube.com/jyck613" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="jyck613" height="30" width="40" /></a>
