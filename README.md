@@ -1,11 +1,11 @@
 ![banner](./github-header-banner.png)
 ..................
-## Hi there 👋
+## Hi there 👋, I am Jay
 I am a system architect
 
 =============
 
-# Hi 👋, I'm jyck613 
+#👋,
 
 - 🔭 I'm currently working on **AI coding agent framework**
 
