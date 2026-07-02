@@ -5,8 +5,6 @@ I am a system architect
 
 =============
 
-#👋,
-
 - 🔭 I'm currently working on **AI coding agent framework**
 
 - 👯 I'm looking to collaborate on **open source projects**
